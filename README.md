@@ -72,7 +72,7 @@
 
 - :o: :heart: [Open Source Guides](https://opensource.guide/es/)
 - :o: :newspaper: [Which Podcasts Should Web Designers And Developers Be Listening To?](https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/)
-- :heart: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
+- :heart: :newspaper: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
