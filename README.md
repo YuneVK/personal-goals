@@ -40,11 +40,29 @@
 - :newspaper: [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - :newspaper: [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
 
+### Libs
+
+- [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
 ## JavaScript
 
 - :newspaper: [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
 - :newspaper: [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
 - :newspaper: [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
+- :newspaper: [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
+
+### Libs
+
+- [anime.js](https://animejs.com/) - JavaScript animation engine
+- [PlayCanvas](https://playcanvas.com/) - The Web-First Game Engine
+- [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences
+- [PixiJS](http://www.pixijs.com/) - The HTML5 Creation Engine
+
+### React
+
+#### Libs
+
+- [React Kawaii](https://github.com/miukimiu/react-kawaii) - Cute React UI Components
 
 ## Front-end
 
@@ -67,6 +85,7 @@
 - :newspaper: [43+ Best new web design resources for June 2018](https://designrevision.com/web-design-resources-june-2018/)
 - :newspaper: [5 principles of design for a better User Experience](https://uxdesign.cc/5-principles-of-design-for-a-better-user-experience-d3a789e8c944)
 - :newspaper: [7 quick life lessons for designers](https://uxdesign.cc/7-quick-life-lessons-for-designers-df9b1e08463a)
+- :heart: :newspaper: [Re: Pleasing Color Palettes](https://css-tricks.com/re-pleasing-color-palettes/)
 
 ## Others
 
