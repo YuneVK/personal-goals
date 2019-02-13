@@ -26,9 +26,13 @@
 
 ## HTML
 
+### Articles
+
 - :newspaper: [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
 
 ## CSS
+
+### Articles
 
 - :newspaper: [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 - :newspaper: [::before vs :before](https://css-tricks.com/to-double-color-or-not-do-double-colon/)
@@ -45,6 +49,12 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
 ## JavaScript
+
+### ES6
+
+- :heart: [ES6Katas](http://es6katas.org/)
+
+### Articles
 
 - :newspaper: [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
 - :newspaper: [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
@@ -93,6 +103,7 @@
 - :o: :newspaper: [Which Podcasts Should Web Designers And Developers Be Listening To?](https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/)
 - :heart: :newspaper: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
 - :newspaper: [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
+- [CodingCarlos](https://codingcarlos.com/slides/) - Slides about Product Development
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
