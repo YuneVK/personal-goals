@@ -54,12 +54,9 @@
 
 - :heart: [ES6Katas](http://es6katas.org/)
 
-### Articles
+### WebGL
 
-- :newspaper: [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
-- :newspaper: [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
-- :newspaper: [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
-- :newspaper: [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
+- [WebGL Sketches](http://sketches.vlucendo.com/)
 
 ### Libs
 
@@ -73,6 +70,18 @@
 #### Libs
 
 - [React Kawaii](https://github.com/miukimiu/react-kawaii) - Cute React UI Components
+
+### Articles
+
+- :newspaper: [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
+- :newspaper: [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
+- :newspaper: [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
+- :newspaper: [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
+
+### Books
+
+- [Mastering D3.js](https://www.amazon.es/Mastering-D3-Js-Pablo-Navarro/dp/178328627X)
+- [D3.js: Cutting-edge Data Visualization](https://learning.oreilly.com/library/view/d3js-cutting-edge-data/9781787281776/) - [GitHub Repo](https://github.com/PacktPublishing/D3js-Cutting-edge-Data-Visualization)
 
 ## Front-end
 
@@ -96,6 +105,14 @@
 - :newspaper: [5 principles of design for a better User Experience](https://uxdesign.cc/5-principles-of-design-for-a-better-user-experience-d3a789e8c944)
 - :newspaper: [7 quick life lessons for designers](https://uxdesign.cc/7-quick-life-lessons-for-designers-df9b1e08463a)
 - :heart: :newspaper: [Re: Pleasing Color Palettes](https://css-tricks.com/re-pleasing-color-palettes/)
+
+## Communities
+
+- [EnkiOpenSource](https://enki.com/community/)
+
+## Tools
+
+- [Sheetgo](https://www.sheetgo.com/) - Spreadsheet data management 
 
 ## Others
 
