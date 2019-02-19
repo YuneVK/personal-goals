@@ -83,6 +83,14 @@
 - [Mastering D3.js](https://www.amazon.es/Mastering-D3-Js-Pablo-Navarro/dp/178328627X)
 - [D3.js: Cutting-edge Data Visualization](https://learning.oreilly.com/library/view/d3js-cutting-edge-data/9781787281776/) - [GitHub Repo](https://github.com/PacktPublishing/D3js-Cutting-edge-Data-Visualization)
 
+### Tutorials
+
+- [WarriorJS](https://warriorjs.com/) - Code your way through dungeons, prove your skills, and get hired.
+
+### Others
+
+- [Open Source Awards](https://osawards.com/)
+
 ## Front-end
 
 - :newspaper: [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
