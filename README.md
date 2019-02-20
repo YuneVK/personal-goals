@@ -43,6 +43,7 @@
 - :newspaper: [Taming Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
 - :newspaper: [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 - :newspaper: [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+- :heart: :newspaper: [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
 
 ### Libs
 
