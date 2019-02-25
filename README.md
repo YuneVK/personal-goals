@@ -106,6 +106,10 @@
 - :o: :clapper: [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - :o: :clapper: [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 
+## Git
+
+- [Oh shit, git!](https://ohshitgit.com/)
+
 ## Design
 
 - :newspaper: [Ten rules of good Product Design](https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc)
