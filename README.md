@@ -135,5 +135,9 @@
 - :newspaper: [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
 - [CodingCarlos](https://codingcarlos.com/slides/) - Slides about Product Development
 
+### Chrome Extensions
+
+- :heart: [30 Seconds Of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) - Web Extension that lets you gain new developer skills, every time you open a New Tab
+
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
