@@ -119,6 +119,14 @@
 - :newspaper: [7 quick life lessons for designers](https://uxdesign.cc/7-quick-life-lessons-for-designers-df9b1e08463a)
 - :heart: :newspaper: [Re: Pleasing Color Palettes](https://css-tricks.com/re-pleasing-color-palettes/)
 
+### Typography
+
+- [Better Web Type](https://betterwebtype.com/) - A free web typography course for web designers & web developers.
+
+#### Books
+
+- 
+
 ## Communities
 
 - [EnkiOpenSource](https://enki.com/community/)
