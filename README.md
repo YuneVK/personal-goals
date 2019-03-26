@@ -23,6 +23,7 @@
 ## :books: Books
 
 - :o: [The Book of Shaders](https://thebookofshaders.com/)
+- [The Pragmatic Programmer](https://www.amazon.es/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
 ## HTML
 
@@ -66,6 +67,10 @@
 - [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences
 - [PixiJS](http://www.pixijs.com/) - The HTML5 Creation Engine
 
+### Frameworks
+
+- [Phaser](https://phaser.io/) - A fast, fun and free open source HTML5 game framework
+
 ### React
 
 #### Libs
@@ -98,6 +103,8 @@
 
 ## Web Development
 
+### Articles
+
 - :newspaper: [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
 - :newspaper: [23+ Best new resources for web developers July 2018](https://designrevision.com/web-dev-resources-july-2018/)
 - :newspaper: [Lazy Load: llega la carga diferida de contenido a Google Chrome](https://www.redeszone.net/2018/08/14/lazy-load-carga-diferida-google-chrome/)
@@ -106,11 +113,17 @@
 - :o: :clapper: [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - :o: :clapper: [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 
+### Talks
+
+- [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+
 ## Git
 
 - [Oh shit, git!](https://ohshitgit.com/)
 
 ## Design
+
+### Articles
 
 - :newspaper: [Ten rules of good Product Design](https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc)
 - :newspaper: [14 modern web design trends for 2018](https://designrevision.com/14-modern-web-design-trends-2018/)
@@ -123,9 +136,9 @@
 
 - [Better Web Type](https://betterwebtype.com/) - A free web typography course for web designers & web developers.
 
-#### Books
+### Books
 
-- 
+- [Free-To-Download Design Books On Typography, UI/UX, Web Design & More](https://designtaxi.com/news/401121/Free-To-Download-Design-Books-On-Typography-UI-UX-Web-Design-More/)
 
 ## Communities
 
@@ -135,17 +148,30 @@
 
 - [Sheetgo](https://www.sheetgo.com/) - Spreadsheet data management 
 
+## Data Science
+
+- [Learn With Google AI](https://ai.google/education)
+- [Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course/?hl=es-419)
+- [Deep Learning para todos los públicos: ¿Qué son los tensores? ¿Qué es TensorFlow?](https://data-speaks.luca-d3.com/2019/01/deep-learning-para-todos-los-publicos.html)
+
 ## Others
 
 - :o: :heart: [Open Source Guides](https://opensource.guide/es/)
+- [CodingCarlos](https://codingcarlos.com/slides/) - Slides about Product Development
+
+### Articles
+
 - :o: :newspaper: [Which Podcasts Should Web Designers And Developers Be Listening To?](https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/)
 - :heart: :newspaper: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
 - :newspaper: [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
-- [CodingCarlos](https://codingcarlos.com/slides/) - Slides about Product Development
 
 ### Chrome Extensions
 
 - :heart: [30 Seconds Of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) - Web Extension that lets you gain new developer skills, every time you open a New Tab
+
+## Loved Websites
+
+- [Game Of The Year](https://gameoftheyear.withgoogle.com/)
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
