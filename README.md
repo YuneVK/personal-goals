@@ -92,6 +92,7 @@
 ### Tutorials
 
 - [WarriorJS](https://warriorjs.com/) - Code your way through dungeons, prove your skills, and get hired.
+- [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)
 
 ### Others
 
