@@ -66,16 +66,21 @@
 - [PlayCanvas](https://playcanvas.com/) - The Web-First Game Engine
 - [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences
 - [PixiJS](http://www.pixijs.com/) - The HTML5 Creation Engine
+- [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras
 
 ### Frameworks
 
 - [Phaser](https://phaser.io/) - A fast, fun and free open source HTML5 game framework
 
+### Other tools
+
+- [Lerna](https://lernajs.io/) - A tool for managing JavaScript projects with multiple packages
+
 ### React
 
 #### Libs
 
-- [React Kawaii](https://github.com/miukimiu/react-kawaii) - Cute React UI Components
+- [React Kawaii](https:hub.com/miukimiu/react-kawaii) - Cute React UI Components
 
 ### Articles
 
@@ -97,6 +102,8 @@
 ### Others
 
 - [Open Source Awards](https://osawards.com/)
+- [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+- [JSFuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 
 ## Front-end
 
@@ -121,6 +128,7 @@
 ## Git
 
 - [Oh shit, git!](https://ohshitgit.com/)
+- [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web
 
 ## Design
 
