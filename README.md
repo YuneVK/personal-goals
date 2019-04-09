@@ -24,6 +24,7 @@
 
 - :o: [The Book of Shaders](https://thebookofshaders.com/)
 - [The Pragmatic Programmer](https://www.amazon.es/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.es/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2)
 
 ## HTML
 
@@ -35,16 +36,28 @@
 
 ### Articles
 
-- :newspaper: [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
-- :newspaper: [::before vs :before](https://css-tricks.com/to-double-color-or-not-do-double-colon/)
-- :newspaper: [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
-- :newspaper: [Position CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-- :newspaper: [All About Floats](https://css-tricks.com/all-about-floats/)
-- :newspaper: :heart: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
-- :newspaper: [Taming Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
-- :newspaper: [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-- :newspaper: [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
-- :heart: :newspaper: [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
+- [Flexbox — The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
+- [::before vs :before](https://css-tricks.com/to-double-color-or-not-do-double-colon/)
+- [Advanced effects with CSS background blend modes](https://blog.logrocket.com/advanced-effects-with-css-background-blend-modes-4b750198522a)
+- [Position CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [All About Floats](https://css-tricks.com/all-about-floats/)
+- :heart: [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
+- [Taming Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
+- [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)
+- :heart: [Practical CSS Scroll Snapping](https://css-tricks.com/practical-css-scroll-snapping/)
+- [The single responsibility principle applied to CSS](https://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/)
+- [A Detailed Guide to CSS Animations and Transitions](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c)
+- [A look at CSS hyphenation in 2019](https://justmarkup.com/log/2019/01/a-look-at-css-hyphenation-in-2019/)
+- [CSSVR: Progressive VR experiences](https://keithclark.co.uk/articles/css-vr/)
+- [Creating 3D worlds with HTML and CSS](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+
+### Tutorials
+
+- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+- [Flexbox Froggy](https://flexboxfroggy.com/) - A game for learning CSS flexbox
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+- [CSS Diner](https://flukeout.github.io/) - Where we feast on CSS Selectors!
 
 ### Libs
 
@@ -67,6 +80,7 @@
 - [A-Frame](https://aframe.io/) - A web framework for building virtual reality experiences
 - [PixiJS](http://www.pixijs.com/) - The HTML5 Creation Engine
 - [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras
+- [Vanilla Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) - A lightweight parallax hover tilt effect
 
 ### Frameworks
 
@@ -80,14 +94,18 @@
 
 #### Libs
 
-- [React Kawaii](https:hub.com/miukimiu/react-kawaii) - Cute React UI Components
+- [React Kawaii](https://react-kawaii.now.sh/) - Cute React UI Components
+
+#### Tutorials
+
+- [Learn React App](https://github.com/tyroprogrammer/learn-react-app)
 
 ### Articles
 
-- :newspaper: [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
-- :newspaper: [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
-- :newspaper: [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
-- :newspaper: [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
+- [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
+- [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
+- [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
+- [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
 
 ### Books
 
@@ -104,10 +122,12 @@
 - [Open Source Awards](https://osawards.com/)
 - [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [JSFuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
+- [Learn JS Data](http://learnjsdata.com/) - Data cleaning, manipulation, and wrangling in JavaScript
 
 ## Front-end
 
 - :newspaper: [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
+- :heart: [CodeMyUI](https://codemyui.com/)
 
 ## Web Development
 
@@ -125,6 +145,10 @@
 
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 
+### Others
+
+- [Service Workies](https://serviceworkies.com/) - Learn Service Workers inside and out with the new PWA Mastery Game
+
 ## Git
 
 - [Oh shit, git!](https://ohshitgit.com/)
@@ -132,18 +156,26 @@
 
 ## Design
 
+- :heart: [Awesome Design Tools](Awesome Design Tools)
+- :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
+- [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
+
 ### Articles
 
-- :newspaper: [Ten rules of good Product Design](https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc)
-- :newspaper: [14 modern web design trends for 2018](https://designrevision.com/14-modern-web-design-trends-2018/)
-- :newspaper: [43+ Best new web design resources for June 2018](https://designrevision.com/web-design-resources-june-2018/)
-- :newspaper: [5 principles of design for a better User Experience](https://uxdesign.cc/5-principles-of-design-for-a-better-user-experience-d3a789e8c944)
-- :newspaper: [7 quick life lessons for designers](https://uxdesign.cc/7-quick-life-lessons-for-designers-df9b1e08463a)
-- :heart: :newspaper: [Re: Pleasing Color Palettes](https://css-tricks.com/re-pleasing-color-palettes/)
+- [Ten rules of good Product Design](https://uxdesign.cc/ten-rules-of-good-design-e3dcabc61bc)
+- [14 modern web design trends for 2018](https://designrevision.com/14-modern-web-design-trends-2018/)
+- [43+ Best new web design resources for June 2018](https://designrevision.com/web-design-resources-june-2018/)
+- [5 principles of design for a better User Experience](https://uxdesign.cc/5-principles-of-design-for-a-better-user-experience-d3a789e8c944)
+- [7 quick life lessons for designers](https://uxdesign.cc/7-quick-life-lessons-for-designers-df9b1e08463a)
+- :heart: [Re: Pleasing Color Palettes](https://css-tricks.com/re-pleasing-color-palettes/)
 
 ### Typography
 
-- [Better Web Type](https://betterwebtype.com/) - A free web typography course for web designers & web developers.
+- [Better Web Type](https://betterwebtype.com/) - A free web typography course for web designers & web developers
+
+### Colors
+
+- [Palettte App](https://palettte.app/) - Create, analyze and edit smooth color palettes
 
 ### Books
 
@@ -167,6 +199,9 @@
 
 - :o: :heart: [Open Source Guides](https://opensource.guide/es/)
 - [CodingCarlos](https://codingcarlos.com/slides/) - Slides about Product Development
+- [99 Bottles of Beer](http://www.99-bottles-of-beer.net/) - One program in 1500 variations
+- [MusicForProgramming](https://musicforprogramming.net/)
+- [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy Console
 
 ### Articles
 
@@ -174,13 +209,26 @@
 - :heart: :newspaper: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
 - :newspaper: [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
 
+### Podcasts
+
+- [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+
 ### Chrome Extensions
 
 - :heart: [30 Seconds Of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) - Web Extension that lets you gain new developer skills, every time you open a New Tab
+- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Open source web design debug tools
 
 ## Loved Websites
 
 - [Game Of The Year](https://gameoftheyear.withgoogle.com/)
+- [CSSDesignAwards - Website of the Year 2018](http://cssdesignawards.com/woty2018/)
+- [Global Oil](https://www.gsmlondon.ac.uk/global-oil-map/)
+
+### Awards
+
+- [CSS Design Awards](https://www.cssdesignawards.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [The FWA](https://thefwa.com/)
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
