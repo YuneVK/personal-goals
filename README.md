@@ -51,6 +51,8 @@
 - [A look at CSS hyphenation in 2019](https://justmarkup.com/log/2019/01/a-look-at-css-hyphenation-in-2019/)
 - [CSSVR: Progressive VR experiences](https://keithclark.co.uk/articles/css-vr/)
 - [Creating 3D worlds with HTML and CSS](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
+- [21 ways to optimise your CSS and speed up your site](https://www.creativebloq.com/how-to/21-ways-to-optimise-your-css-and-speed-up-your-site)
+- [Lesser-known CSS properties in GIFs](https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba)
 
 ### Tutorials
 
@@ -59,9 +61,24 @@
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/) - Where we feast on CSS Selectors!
 
+### Books 
+
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) - A curated collection of useful CSS snippets you can understand in 30 seconds or less
+
 ### Libs
 
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+- [< css-doodle />](https://css-doodle.com/) - A web component for drawing patterns with CSS
+
+### Tools
+
+- [cssdb](https://cssdb.org/) - A comprehensive list of CSS features and their positions in the process of becoming implemented web standards
+
+### Talks
+
+#### Slides
+
+- [Generative Art With CSS](https://yuanchuan.name/talk/generative-art-with-css/)
 
 ## JavaScript
 
@@ -81,6 +98,8 @@
 - [PixiJS](http://www.pixijs.com/) - The HTML5 Creation Engine
 - [Lodash](https://lodash.com/) - A modern JavaScript utility library delivering modularity, performance & extras
 - [Vanilla Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) - A lightweight parallax hover tilt effect
+- [JSS](https://cssinjs.org/) - Use JavaScript to describe styles
+- [p5.js](https://github.com/processing/p5.js) - A library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web
 
 ### Frameworks
 
@@ -90,15 +109,22 @@
 
 - [Lerna](https://lernajs.io/) - A tool for managing JavaScript projects with multiple packages
 
+### Books
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [30 seconds of code](https://30secondsofcode.org/) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less
+
 ### React
 
 #### Libs
 
 - [React Kawaii](https://react-kawaii.now.sh/) - Cute React UI Components
+- [React Reveal](https://www.react-reveal.com/)
 
 #### Tutorials
 
 - [Learn React App](https://github.com/tyroprogrammer/learn-react-app)
+- [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) - Curated collection of useful React snippets that you can understand in 30 seconds or less
 
 ### Articles
 
@@ -106,6 +132,8 @@
 - [Depurar código JavaScript con la instrucción debugger](https://picodotdev.github.io/blog-bitix/2018/05/depurar-codigo-javascript-con-la-instruccion-debugger/)
 - [Variables Cheat Sheet](http://webcheatsheet.com/javascript/variables.php)
 - [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
+- [Advanced JavaScript Logging Using console.group()](https://mariusschulz.com/blog/advanced-javascript-logging-using-console-group)
+- [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 
 ### Books
 
@@ -133,21 +161,23 @@
 
 ### Articles
 
-- :newspaper: [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
-- :newspaper: [23+ Best new resources for web developers July 2018](https://designrevision.com/web-dev-resources-july-2018/)
-- :newspaper: [Lazy Load: llega la carga diferida de contenido a Google Chrome](https://www.redeszone.net/2018/08/14/lazy-load-carga-diferida-google-chrome/)
-- :newspaper: [How to Look at Your Website the Way Google Does](https://neilpatel.com/blog/the-way-google-scans/)
-- :o: :newspaper: [Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
-- :o: :clapper: [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
-- :o: :clapper: [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- [Optimize Website Speed With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/speed/get-started)
+- [23+ Best new resources for web developers July 2018](https://designrevision.com/web-dev-resources-july-2018/)
+- [Lazy Load: llega la carga diferida de contenido a Google Chrome](https://www.redeszone.net/2018/08/14/lazy-load-carga-diferida-google-chrome/)
+- [How to Look at Your Website the Way Google Does](https://neilpatel.com/blog/the-way-google-scans/)
+- :o: [Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
 
 ### Talks
 
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
+- [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
+- [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
 
 ### Others
 
 - [Service Workies](https://serviceworkies.com/) - Learn Service Workers inside and out with the new PWA Mastery Game
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
+- [web.dev](https://web.dev/)
 
 ## Git
 
@@ -202,6 +232,9 @@
 - [99 Bottles of Beer](http://www.99-bottles-of-beer.net/) - One program in 1500 variations
 - [MusicForProgramming](https://musicforprogramming.net/)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php) - Fantasy Console
+- [Manoloide](http://manoloide.com/) - Creative Coder
+- [GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design
+- [Processing](https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts
 
 ### Articles
 
@@ -218,11 +251,16 @@
 - :heart: [30 Seconds Of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) - Web Extension that lets you gain new developer skills, every time you open a New Tab
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Open source web design debug tools
 
+### Jobs
+
+- [RoleAdvisor](https://www.roleadvisor.com/) - Descúbrete y encuentra tu trabajo ideal
+
 ## Loved Websites
 
 - [Game Of The Year](https://gameoftheyear.withgoogle.com/)
 - [CSSDesignAwards - Website of the Year 2018](http://cssdesignawards.com/woty2018/)
 - [Global Oil](https://www.gsmlondon.ac.uk/global-oil-map/)
+- [The Boat](http://www.sbs.com.au/theboat/)
 
 ### Awards
 
