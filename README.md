@@ -53,6 +53,8 @@
 - [Creating 3D worlds with HTML and CSS](https://keithclark.co.uk/articles/creating-3d-worlds-with-html-and-css/)
 - [21 ways to optimise your CSS and speed up your site](https://www.creativebloq.com/how-to/21-ways-to-optimise-your-css-and-speed-up-your-site)
 - [Lesser-known CSS properties in GIFs](https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba)
+- [My CSS reset](https://zellwk.com/blog/css-reset/)
+- [All you need to know about hyphenation in CSS](https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179)
 
 ### Tutorials
 
@@ -73,12 +75,18 @@
 ### Tools
 
 - [cssdb](https://cssdb.org/) - A comprehensive list of CSS features and their positions in the process of becoming implemented web standards
+- [DropCSS](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
+- [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 ### Talks
 
 #### Slides
 
 - [Generative Art With CSS](https://yuanchuan.name/talk/generative-art-with-css/)
+
+### Others
+
+- [CSSBattle](https://cssbattle.dev/) - Use your CSS skills to replicate targets with smallest possible code
 
 ## JavaScript
 
@@ -100,6 +108,7 @@
 - [Vanilla Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/) - A lightweight parallax hover tilt effect
 - [JSS](https://cssinjs.org/) - Use JavaScript to describe styles
 - [p5.js](https://github.com/processing/p5.js) - A library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web
+- [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 
 ### Frameworks
 
@@ -134,6 +143,8 @@
 - [Your WebGL aiders](https://areknawo.com/your-webgl-aiders/)
 - [Advanced JavaScript Logging Using console.group()](https://mariusschulz.com/blog/advanced-javascript-logging-using-console-group)
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+- [Jumps: The New Steps() in Web Animation](https://danielcwilson.com/blog/2019/02/step-and-jump/)
+- [JS one-liners](https://blog.usejournal.com/js-one-liners-8bc0a6af2345?sk=a9295a05aef9e514e137fca7eeb89cd1)
 
 ### Books
 
@@ -151,11 +162,15 @@
 - [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [JSFuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [Learn JS Data](http://learnjsdata.com/) - Data cleaning, manipulation, and wrangling in JavaScript
+- [JavaScript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 
 ## Front-end
 
 - :newspaper: [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
 - :heart: [CodeMyUI](https://codemyui.com/)
+- :newspaper: [Tools and modern workflow for front-end developers](https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917)
+- [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
+- [SVG Tutorial (MDN)](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial)
 
 ## Web Development
 
@@ -186,7 +201,7 @@
 
 ## Design
 
-- :heart: [Awesome Design Tools](Awesome Design Tools)
+- :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
 - [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
 
@@ -235,16 +250,22 @@
 - [Manoloide](http://manoloide.com/) - Creative Coder
 - [GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design
 - [Processing](https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts
+- [VIM Adventures](https://vim-adventures.com/) - Learning VIM while playing a game
+- [speaking.io](https://speaking.io/) - Tips for Public Speaking
+- [Kahoot!](https://kahoot.com/)
 
 ### Articles
 
-- :o: :newspaper: [Which Podcasts Should Web Designers And Developers Be Listening To?](https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/)
-- :heart: :newspaper: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
-- :newspaper: [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
+- :o: [Which Podcasts Should Web Designers And Developers Be Listening To?](https://www.smashingmagazine.com/2018/04/podcasts-web-designers-developers/)
+- :heart: [Level Up Your GitHub Experience with Chrome Extensions](https://daveabrock.com/2018/11/25/level-up-github-experience-with-chrome-extensions/)
+- [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
+- [El método de depuración del Pato de Goma (the Rubber Duck method of debugging)](http://blog.gotardo.es/el-metodo-de-depuracion-del-pato-de-goma-the-rubber-duck-method-of-debugging/)
+- [The Ultimate Guide To Memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
 
 ### Podcasts
 
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+- [Podcasts Repo](https://podcasts-repo.surge.sh/)
 
 ### Chrome Extensions
 
@@ -261,6 +282,7 @@
 - [CSSDesignAwards - Website of the Year 2018](http://cssdesignawards.com/woty2018/)
 - [Global Oil](https://www.gsmlondon.ac.uk/global-oil-map/)
 - [The Boat](http://www.sbs.com.au/theboat/)
+- [Nomadic Tribe](https://2019.makemepulse.com/)
 
 ### Awards
 
