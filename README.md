@@ -55,6 +55,8 @@
 - [Lesser-known CSS properties in GIFs](https://medium.com/@PavelLaptev/lesser-known-css-properties-in-gifs-966a143497ba)
 - [My CSS reset](https://zellwk.com/blog/css-reset/)
 - [All you need to know about hyphenation in CSS](https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179)
+- [What Does Dark Mode’s “supported-color-schemes” Actually Do? 🤔](https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actually-do-69c2eacdfa1d)
+- [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
 
 ### Tutorials
 
@@ -193,6 +195,7 @@
 - [Service Workies](https://serviceworkies.com/) - Learn Service Workers inside and out with the new PWA Mastery Game
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 - [web.dev](https://web.dev/)
+- [Real World Example Apps](https://github.com/gothinkster/realworld)
 
 ## Git
 
