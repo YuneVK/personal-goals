@@ -147,6 +147,7 @@
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 - [Jumps: The New Steps() in Web Animation](https://danielcwilson.com/blog/2019/02/step-and-jump/)
 - [JS one-liners](https://blog.usejournal.com/js-one-liners-8bc0a6af2345?sk=a9295a05aef9e514e137fca7eeb89cd1)
+- [Cast to Number in Javascript using the Unary (+) Operator](https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce)
 
 ### Books
 
