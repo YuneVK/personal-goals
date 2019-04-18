@@ -148,6 +148,7 @@
 - [Jumps: The New Steps() in Web Animation](https://danielcwilson.com/blog/2019/02/step-and-jump/)
 - [JS one-liners](https://blog.usejournal.com/js-one-liners-8bc0a6af2345?sk=a9295a05aef9e514e137fca7eeb89cd1)
 - [Cast to Number in Javascript using the Unary (+) Operator](https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce)
+- [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
 
 ### Books
 
@@ -243,6 +244,17 @@
 - [Learn With Google AI](https://ai.google/education)
 - [Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course/?hl=es-419)
 - [Deep Learning para todos los públicos: ¿Qué son los tensores? ¿Qué es TensorFlow?](https://data-speaks.luca-d3.com/2019/01/deep-learning-para-todos-los-publicos.html)
+
+## Regular Expressions
+
+### Courses
+- [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+- [Regular Expression Challenges (FreeCodeCamp)](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions/)
+
+### Testers
+
+- [RegExr](https://regexr.com/)
+- [Regex101](https://regex101.com/)
 
 ## Others
 
