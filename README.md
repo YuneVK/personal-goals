@@ -299,6 +299,7 @@
 - [Global Oil](https://www.gsmlondon.ac.uk/global-oil-map/)
 - [The Boat](http://www.sbs.com.au/theboat/)
 - [Nomadic Tribe](https://2019.makemepulse.com/)
+- [Play For Good](https://play.gl/)
 
 ### Awards
 
