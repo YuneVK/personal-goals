@@ -269,6 +269,7 @@
 - [VIM Adventures](https://vim-adventures.com/) - Learning VIM while playing a game
 - [speaking.io](https://speaking.io/) - Tips for Public Speaking
 - [Kahoot!](https://kahoot.com/)
+- [Slack Themes](https://slackthemes.net/#/aubergine)
 
 ### Articles
 
