@@ -131,11 +131,20 @@
 
 - [React Kawaii](https://react-kawaii.now.sh/) - Cute React UI Components
 - [React Reveal](https://www.react-reveal.com/)
+- [styled-components](https://www.styled-components.com/)
 
 #### Tutorials
 
 - [Learn React App](https://github.com/tyroprogrammer/learn-react-app)
 - [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) - Curated collection of useful React snippets that you can understand in 30 seconds or less
+
+#### Articles
+
+- [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
+
+#### Other
+
+- [Glen Maddern - Styling React Apps with Styled Components](https://www.youtube.com/watch?v=qu4U7lwZTRI)
 
 ### Articles
 
