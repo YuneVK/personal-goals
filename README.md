@@ -58,6 +58,8 @@
 - [What Does Dark Mode’s “supported-color-schemes” Actually Do? 🤔](https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actually-do-69c2eacdfa1d)
 - [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
 - [Flex-grow 9999 Hack](https://joren.co/flex-grow-9999-hack/)
+- [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
+- [The backdrop-filter CSS property](https://css-tricks.com/the-backdrop-filter-css-property/)
 
 ### Tutorials
 
