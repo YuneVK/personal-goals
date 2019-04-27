@@ -57,6 +57,7 @@
 - [All you need to know about hyphenation in CSS](https://medium.com/clear-left-thinking/all-you-need-to-know-about-hyphenation-in-css-2baee2d89179)
 - [What Does Dark Mode’s “supported-color-schemes” Actually Do? 🤔](https://medium.com/dev-channel/what-does-dark-modes-supported-color-schemes-actually-do-69c2eacdfa1d)
 - [CSS Houdini Could Change the Way We Write and Manage CSS](https://css-tricks.com/css-houdini-could-change-the-way-we-write-and-manage-css/)
+- [Flex-grow 9999 Hack](https://joren.co/flex-grow-9999-hack/)
 
 ### Tutorials
 
@@ -85,6 +86,7 @@
 #### Slides
 
 - [Generative Art With CSS](https://yuanchuan.name/talk/generative-art-with-css/)
+- [Even More CSS Secrets](https://leaverou.github.io/talks/even-more-css-secrets/)
 
 ### Others
 
@@ -111,6 +113,7 @@
 - [JSS](https://cssinjs.org/) - Use JavaScript to describe styles
 - [p5.js](https://github.com/processing/p5.js) - A library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
+- [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 
 ### Frameworks
 
