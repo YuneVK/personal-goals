@@ -314,6 +314,7 @@
 - [The Boat](http://www.sbs.com.au/theboat/)
 - [Nomadic Tribe](https://2019.makemepulse.com/)
 - [Play For Good](https://play.gl/)
+- [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 
 ### Awards
 
