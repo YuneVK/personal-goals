@@ -117,6 +117,10 @@
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 
+#### D3
+
+- [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
+
 ### Frameworks
 
 - [Phaser](https://phaser.io/) - A fast, fun and free open source HTML5 game framework
