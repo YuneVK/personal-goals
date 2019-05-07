@@ -326,6 +326,7 @@
 - [Nomadic Tribe](https://2019.makemepulse.com/)
 - [Play For Good](https://play.gl/)
 - [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
+- [ShowRoom](https://showroom.littleworkshop.fr/)
 
 ### Awards
 
