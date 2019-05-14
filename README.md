@@ -60,6 +60,10 @@
 - [Flex-grow 9999 Hack](https://joren.co/flex-grow-9999-hack/)
 - [CSS element() function](http://iamvdo.me/en/blog/css-element-function)
 - [The backdrop-filter CSS property](https://css-tricks.com/the-backdrop-filter-css-property/)
+- [Houdini: Demystifying CSS](https://developers.google.com/web/updates/2016/05/houdini)
+- [CSS Houdini, algo más que magia](https://octuweb.com/css-houdini-algo-mas-que-magia/)
+- [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+- [CSS Houdini Experiments](https://css-houdini.rocks/)
 
 ### Tutorials
 
@@ -103,6 +107,14 @@
 ### WebGL
 
 - [WebGL Sketches](http://sketches.vlucendo.com/)
+- [WebGL Academy]([http://www.webglacademy.com/](http://www.webglacademy.com/))
+- [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
+
+#### Three.js
+
+- [Intro to WebGL with Three.js]([http://davidscottlyons.com/threejs-intro/#slide-0](http://davidscottlyons.com/threejs-intro/#slide-0)) - [Video](Front Porch 2014, David Lyons, Intro to WebGL and Three.js)
+- [Discover Three.js](https://discoverthreejs.com/)
+- [Diving In: Three.js](https://www.youtube.com/watch?v=ABV1mK1CGOY&list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
 
 ### Libs
 
@@ -217,10 +229,11 @@
 - [web.dev](https://web.dev/)
 - [Real World Example Apps](https://github.com/gothinkster/realworld)
 
-## Git
+## Git / GitHub
 
 - [Oh shit, git!](https://ohshitgit.com/)
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web
+- [GitHub Learning Lab](https://lab.github.com/)
 
 ## Design
 
@@ -267,6 +280,7 @@
 - [Learn With Google AI](https://ai.google/education)
 - [Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course/?hl=es-419)
 - [Deep Learning para todos los públicos: ¿Qué son los tensores? ¿Qué es TensorFlow?](https://data-speaks.luca-d3.com/2019/01/deep-learning-para-todos-los-publicos.html)
+- [Data Science (Cheat Sheets)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 ## Regular Expressions
 
@@ -294,6 +308,9 @@
 - [Kahoot!](https://kahoot.com/)
 - [Slack Themes](https://slackthemes.net/#/aubergine)
 - [GB Studio](https://www.gbstudio.dev/) - A free and easy to use retro adventure game creator for your favourite handheld video game system
+- [Dimensions.Guide](https://www.dimensions.guide/)
+- [How long X has existed?]([http://howoldisit.glitch.me/#](http://howoldisit.glitch.me/#))
+- [The browser prompter for macOS](https://browserosaurus.com/)
 
 ### Articles
 
