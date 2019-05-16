@@ -162,6 +162,7 @@
 #### Articles
 
 - [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
+- [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792)
 
 #### Other
 
