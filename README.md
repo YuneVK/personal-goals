@@ -64,6 +64,7 @@
 - [CSS Houdini, algo más que magia](https://octuweb.com/css-houdini-algo-mas-que-magia/)
 - [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
+- [CSS can do that?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
 
 ### Tutorials
 
@@ -88,6 +89,9 @@
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 ### Talks
+
+- [You might not need a CSS framework](https://www.youtube.com/watch?v=kED5eDjMfGM)
+- [Lo que no sabes de CSS](https://www.youtube.com/watch?v=bQ-lTZBgAKs)
 
 #### Slides
 
@@ -153,6 +157,7 @@
 - [React Kawaii](https://react-kawaii.now.sh/) - Cute React UI Components
 - [React Reveal](https://www.react-reveal.com/)
 - [styled-components](https://www.styled-components.com/)
+- [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
 
 #### Tutorials
 
