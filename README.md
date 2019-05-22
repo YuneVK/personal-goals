@@ -159,6 +159,7 @@
 - [React Reveal](https://www.react-reveal.com/)
 - [styled-components](https://www.styled-components.com/)
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
+- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 
 #### Tutorials
 
@@ -174,6 +175,7 @@
 
 - [Glen Maddern - Styling React Apps with Styled Components](https://www.youtube.com/watch?v=qu4U7lwZTRI)
 - [React Patterns](https://reactpatterns.com/)
+- [Awesome Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
 
 ### Articles
 
