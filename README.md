@@ -113,6 +113,7 @@
 - [WebGL Sketches](http://sketches.vlucendo.com/)
 - [WebGL Academy]([http://www.webglacademy.com/](http://www.webglacademy.com/))
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
+- [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
 #### Three.js
 
@@ -172,6 +173,7 @@
 #### Other
 
 - [Glen Maddern - Styling React Apps with Styled Components](https://www.youtube.com/watch?v=qu4U7lwZTRI)
+- [React Patterns](https://reactpatterns.com/)
 
 ### Articles
 
@@ -361,6 +363,10 @@
 - [CSS Design Awards](https://www.cssdesignawards.com/)
 - [Awwwards](https://www.awwwards.com/)
 - [The FWA](https://thefwa.com/)
+
+## Generative Art
+
+- [ArteGenerativo](https://github.com/karlosgliberal/ArteGenerativo) - Material para un taller de experimentación sobre arte generativo
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
