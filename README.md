@@ -323,7 +323,7 @@
 - [Slack Themes](https://slackthemes.net/#/aubergine)
 - [GB Studio](https://www.gbstudio.dev/) - A free and easy to use retro adventure game creator for your favourite handheld video game system
 - [Dimensions.Guide](https://www.dimensions.guide/)
-- [How long X has existed?]([http://howoldisit.glitch.me/#](http://howoldisit.glitch.me/#))
+- [How long X has existed?](http://howoldisit.glitch.me/)
 - [The browser prompter for macOS](https://browserosaurus.com/)
 - [devhints.io](https://devhints.io/) - A collection os cheatsheets
 
