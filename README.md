@@ -160,6 +160,7 @@
 - [styled-components](https://www.styled-components.com/)
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
+- [React Static](https://github.com/nozzle/react-static/tree/master/) - ⚛️ 🚀 A progressive static site generator for React
 
 #### Tutorials
 
@@ -170,6 +171,7 @@
 
 - [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
 - [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792)
+- [⚛️ 🚀 Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 
 #### Other
 
