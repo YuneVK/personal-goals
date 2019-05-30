@@ -32,6 +32,10 @@
 
 - :newspaper: [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
 
+### Others
+
+- [HTML5 is easy... Really?](https://manzdev.github.io/htmlreally/) - HTML5 Test
+
 ## CSS
 
 ### Articles
@@ -133,6 +137,7 @@
 - [p5.js](https://github.com/processing/p5.js) - A library that starts with the original goal of Processing, to make coding accessible for artists, designers, educators, and beginners, and reinterprets this for today's web
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
+- [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
 
 #### D3
 
@@ -173,6 +178,7 @@
 - [The magic behind 💅 styled-components](https://mxstbr.blog/2016/11/styled-components-magic-explained/)
 - [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792)
 - [⚛️ 🚀 Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
+- [Adding Custom Environment Variables](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)
 
 #### Other
 
@@ -242,6 +248,7 @@
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 - [web.dev](https://web.dev/)
 - [Real World Example Apps](https://github.com/gothinkster/realworld)
+- [Web development, illustrated](https://illustrated.dev/)
 
 ## Git / GitHub
 
