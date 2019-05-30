@@ -178,6 +178,7 @@
 - [Glen Maddern - Styling React Apps with Styled Components](https://www.youtube.com/watch?v=qu4U7lwZTRI)
 - [React Patterns](https://reactpatterns.com/)
 - [Awesome Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
+- [Import all files in folder](https://github.com/rails/webpacker/issues/705)
 
 ### Articles
 
