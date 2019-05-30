@@ -330,6 +330,7 @@
 - [How long X has existed?](http://howoldisit.glitch.me/)
 - [The browser prompter for macOS](https://browserosaurus.com/)
 - [devhints.io](https://devhints.io/) - A collection os cheatsheets
+- [Scrimba](https://scrimba.com/) - The easy way to learn coding
 
 ### Articles
 
