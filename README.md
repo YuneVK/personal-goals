@@ -161,6 +161,7 @@
 - [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components 🦁
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [React Static](https://github.com/nozzle/react-static/tree/master/) - ⚛️ 🚀 A progressive static site generator for React
+- [React Select](https://react-select.com/)
 
 #### Tutorials
 
