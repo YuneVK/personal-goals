@@ -118,6 +118,7 @@
 - [WebGL Academy](http://www.webglacademy.com/)
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
 - [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+- [Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
 
 #### Three.js
 
@@ -167,6 +168,7 @@
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [React Static](https://github.com/nozzle/react-static/tree/master/) - ⚛️ 🚀 A progressive static site generator for React
 - [React Select](https://react-select.com/)
+- [React Color](https://casesandberg.github.io/react-color/)
 
 #### Tutorials
 
@@ -249,6 +251,7 @@
 - [web.dev](https://web.dev/)
 - [Real World Example Apps](https://github.com/gothinkster/realworld)
 - [Web development, illustrated](https://illustrated.dev/)
+- [Full Stack Open 2019](https://fullstackopen.com/en) - Deep Dive Into Modern Web Development
 
 ## Git / GitHub
 
@@ -261,6 +264,8 @@
 - :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
 - [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
+- [Streamline](https://app.streamlineicons.com/streamline-regular/interface-essential)
+- [IconJar](https://geticonjar.com/)
 
 ### UX
 
@@ -338,6 +343,7 @@
 - [The browser prompter for macOS](https://browserosaurus.com/)
 - [devhints.io](https://devhints.io/) - A collection os cheatsheets
 - [Scrimba](https://scrimba.com/) - The easy way to learn coding
+- [Beat Saver](https://beatsaver.com/browse/newest)
 
 ### Articles
 
@@ -371,6 +377,7 @@
 - [Play For Good](https://play.gl/)
 - [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 - [ShowRoom](https://showroom.littleworkshop.fr/)
+- [Oropress](https://www.oropress.it/en/)
 
 ### Awards
 
