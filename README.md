@@ -119,6 +119,8 @@
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
 - [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
+- [A-Frame](https://aframe.io/)
+- [A-Frame School](https://aframe.io/aframe-school/#/)
 
 #### Three.js
 
