@@ -115,13 +115,13 @@
 ### WebGL
 
 - [WebGL Sketches](http://sketches.vlucendo.com/)
-- [WebGL Academy]([http://www.webglacademy.com/](http://www.webglacademy.com/))
+- [WebGL Academy](http://www.webglacademy.com/)
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
 - [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 
 #### Three.js
 
-- [Intro to WebGL with Three.js]([http://davidscottlyons.com/threejs-intro/#slide-0](http://davidscottlyons.com/threejs-intro/#slide-0)) - [Video](Front Porch 2014, David Lyons, Intro to WebGL and Three.js)
+- [Intro to WebGL with Three.js](http://davidscottlyons.com/threejs-intro/#slide-0) - [Video] Front Porch 2014, David Lyons, Intro to WebGL and Three.js
 - [Discover Three.js](https://discoverthreejs.com/)
 - [Diving In: Three.js](https://www.youtube.com/watch?v=ABV1mK1CGOY&list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
 
@@ -264,7 +264,7 @@
 
 ### UX
 
-- [BatUX]([http://batux.design/](http://batux.design/)) - An infographic rethinking Batman’s classic outfit in a user-centric way
+- [BatUX](http://batux.design/) - An infographic rethinking Batman’s classic outfit in a user-centric way
 
 ### Articles
 
