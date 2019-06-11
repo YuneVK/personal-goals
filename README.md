@@ -141,6 +141,7 @@
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 - [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+- [TinyColor](http://bgrins.github.io/TinyColor/) - Fast, small color manipulation and conversion for JavaScript
 
 #### D3
 
