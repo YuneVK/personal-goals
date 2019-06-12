@@ -184,6 +184,7 @@
 - [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792)
 - [⚛️ 🚀 Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 - [Adding Custom Environment Variables](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)
+- [5 Ways to Style React Components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 
 #### Other
 
@@ -204,6 +205,7 @@
 - [JS one-liners](https://blog.usejournal.com/js-one-liners-8bc0a6af2345?sk=a9295a05aef9e514e137fca7eeb89cd1)
 - [Cast to Number in Javascript using the Unary (+) Operator](https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce)
 - [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
+- [7 FrontEnd JavaScript Trends and Tools You Should Know for 2020](https://hackernoon.com/7-frontend-javascript-trends-and-tools-you-should-know-for-2020-fb1476e41083)
 
 ### Books
 
@@ -246,6 +248,7 @@
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- [The Future of Web Animation](https://www.youtube.com/watch?v=hjgni3dXcVE) - Sarah Drasner | JSHeroes 2019
 
 ### Others
 
