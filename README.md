@@ -69,6 +69,9 @@
 - [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [CSS can do that?](https://dev.to/ananyaneogi/css-can-do-that-18g7)
+- [Cómo extraer el Critical Path CSS con Puppeteer, Code Coverage y en sólo 20 líneas de código](https://midu.dev/como-extraer-el-critical-css-con-puppeteer/)
+- [Controlling Leftover Grid Items with Pseudo-selectors](https://css-irl.info/controlling-leftover-grid-items/)
+- [How to create better themes with CSS variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74/)
 
 ### Tutorials
 
@@ -138,6 +141,9 @@
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 - [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+- [\<shader-doodle />](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders
+- [Twemoji](https://github.com/twitter/twemoji) - A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
 #### D3
 
@@ -172,6 +178,8 @@
 
 - [Learn React App](https://github.com/tyroprogrammer/learn-react-app)
 - [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) - Curated collection of useful React snippets that you can understand in 30 seconds or less
+- [Build a CRUD App in React with Hooks](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+- [Pulling Apart SVGs with Reusable WebGL Components Using React-three-fiber](https://tympanus.net/codrops/2019/04/12/pulling-apart-svgs-with-reusable-webgl-components-using-react-three-fiber/)
 
 #### Articles
 
@@ -235,12 +243,14 @@
 - [Lazy Load: llega la carga diferida de contenido a Google Chrome](https://www.redeszone.net/2018/08/14/lazy-load-carga-diferida-google-chrome/)
 - [How to Look at Your Website the Way Google Does](https://neilpatel.com/blog/the-way-google-scans/)
 - :o: [Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
+- [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
 
 ### Talks
 
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+- [Scraping épico para gente sin APIs](https://t3chfest.uc3m.es/2018/programa/scraping-epico-para-gente-sin-apis/)
 
 ### Others
 
@@ -255,12 +265,14 @@
 - [Oh shit, git!](https://ohshitgit.com/)
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web
 - [GitHub Learning Lab](https://lab.github.com/)
+- [GIT.WTF](https://git.wtf/)
 
 ## Design
 
+### Tools
+
 - :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
-- [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
 
 ### UX
 
@@ -282,10 +294,15 @@
 ### Colors
 
 - [Palettte App](https://palettte.app/) - Create, analyze and edit smooth color palettes
+- [MyColor Space](https://mycolor.space/) - Gradient Generator
 
 ### Books
 
 - [Free-To-Download Design Books On Typography, UI/UX, Web Design & More](https://designtaxi.com/news/401121/Free-To-Download-Design-Books-On-Typography-UI-UX-Web-Design-More/)
+
+### Others
+
+- [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
 
 ## Communities
 
@@ -306,6 +323,11 @@
 - [Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course/?hl=es-419)
 - [Deep Learning para todos los públicos: ¿Qué son los tensores? ¿Qué es TensorFlow?](https://data-speaks.luca-d3.com/2019/01/deep-learning-para-todos-los-publicos.html)
 - [Data Science (Cheat Sheets)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+- [DataQuest](https://www.dataquest.io/) - Learn Data Science
+
+## Data Visualization
+
+- [WTF Visualizations](https://viz.wtf/)
 
 ## Regular Expressions
 
@@ -346,11 +368,13 @@
 - [Top 20 Dev Tools for 2019](https://blog.axosoft.com/top-developer-tools-2019/)
 - [El método de depuración del Pato de Goma (the Rubber Duck method of debugging)](http://blog.gotardo.es/el-metodo-de-depuracion-del-pato-de-goma-the-rubber-duck-method-of-debugging/)
 - [The Ultimate Guide To Memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-e7c350778d4b)
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
 
 ### Podcasts
 
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Podcasts Repo](https://podcasts-repo.surge.sh/)
+- [Web Reactiva](https://www.danielprimo.io/podcast)
 
 ### Chrome Extensions
 
@@ -371,6 +395,7 @@
 - [Play For Good](https://play.gl/)
 - [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 - [ShowRoom](https://showroom.littleworkshop.fr/)
+- [Photographer Portfolio Concept](https://dribbble.com/shots/6411111-Photographer-Portfolio-Concept)
 
 ### Awards
 
