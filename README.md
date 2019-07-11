@@ -118,13 +118,16 @@
 ### WebGL
 
 - [WebGL Sketches](http://sketches.vlucendo.com/)
-- [WebGL Academy]([http://www.webglacademy.com/](http://www.webglacademy.com/))
+- [WebGL Academy](http://www.webglacademy.com/)
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
 - [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+- [Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
+- [A-Frame](https://aframe.io/)
+- [A-Frame School](https://aframe.io/aframe-school/#/)
 
 #### Three.js
 
-- [Intro to WebGL with Three.js]([http://davidscottlyons.com/threejs-intro/#slide-0](http://davidscottlyons.com/threejs-intro/#slide-0)) - [Video](Front Porch 2014, David Lyons, Intro to WebGL and Three.js)
+- [Intro to WebGL with Three.js](http://davidscottlyons.com/threejs-intro/#slide-0) - [Video] Front Porch 2014, David Lyons, Intro to WebGL and Three.js
 - [Discover Three.js](https://discoverthreejs.com/)
 - [Diving In: Three.js](https://www.youtube.com/watch?v=ABV1mK1CGOY&list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf)
 
@@ -141,9 +144,13 @@
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 - [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+<<<<<<< HEAD
 - [\<shader-doodle />](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders
 - [Twemoji](https://github.com/twitter/twemoji) - A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+=======
+- [TinyColor](http://bgrins.github.io/TinyColor/) - Fast, small color manipulation and conversion for JavaScript
+>>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
 
 #### D3
 
@@ -173,6 +180,7 @@
 - [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [React Static](https://github.com/nozzle/react-static/tree/master/) - ⚛️ 🚀 A progressive static site generator for React
 - [React Select](https://react-select.com/)
+- [React Color](https://casesandberg.github.io/react-color/)
 
 #### Tutorials
 
@@ -187,6 +195,7 @@
 - [Icons as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792)
 - [⚛️ 🚀 Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 - [Adding Custom Environment Variables](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)
+- [5 Ways to Style React Components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 
 #### Other
 
@@ -207,6 +216,7 @@
 - [JS one-liners](https://blog.usejournal.com/js-one-liners-8bc0a6af2345?sk=a9295a05aef9e514e137fca7eeb89cd1)
 - [Cast to Number in Javascript using the Unary (+) Operator](https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce)
 - [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
+- [7 FrontEnd JavaScript Trends and Tools You Should Know for 2020](https://hackernoon.com/7-frontend-javascript-trends-and-tools-you-should-know-for-2020-fb1476e41083)
 
 ### Books
 
@@ -250,7 +260,11 @@
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
+<<<<<<< HEAD
 - [Scraping épico para gente sin APIs](https://t3chfest.uc3m.es/2018/programa/scraping-epico-para-gente-sin-apis/)
+=======
+- [The Future of Web Animation](https://www.youtube.com/watch?v=hjgni3dXcVE) - Sarah Drasner | JSHeroes 2019
+>>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
 
 ### Others
 
@@ -259,6 +273,7 @@
 - [web.dev](https://web.dev/)
 - [Real World Example Apps](https://github.com/gothinkster/realworld)
 - [Web development, illustrated](https://illustrated.dev/)
+- [Full Stack Open 2019](https://fullstackopen.com/en) - Deep Dive Into Modern Web Development
 
 ## Git / GitHub
 
@@ -273,10 +288,16 @@
 
 - :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
+<<<<<<< HEAD
+=======
+- [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
+- [Streamline](https://app.streamlineicons.com/streamline-regular/interface-essential)
+- [IconJar](https://geticonjar.com/)
+>>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
 
 ### UX
 
-- [BatUX]([http://batux.design/](http://batux.design/)) - An infographic rethinking Batman’s classic outfit in a user-centric way
+- [BatUX](http://batux.design/) - An infographic rethinking Batman’s classic outfit in a user-centric way
 
 ### Articles
 
@@ -360,6 +381,7 @@
 - [The browser prompter for macOS](https://browserosaurus.com/)
 - [devhints.io](https://devhints.io/) - A collection os cheatsheets
 - [Scrimba](https://scrimba.com/) - The easy way to learn coding
+- [Beat Saver](https://beatsaver.com/browse/newest)
 
 ### Articles
 
@@ -395,7 +417,11 @@
 - [Play For Good](https://play.gl/)
 - [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 - [ShowRoom](https://showroom.littleworkshop.fr/)
+<<<<<<< HEAD
 - [Photographer Portfolio Concept](https://dribbble.com/shots/6411111-Photographer-Portfolio-Concept)
+=======
+- [Oropress](https://www.oropress.it/en/)
+>>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
 
 ### Awards
 
