@@ -288,8 +288,9 @@
 
 - :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
-<<<<<<< HEAD
-=======
+
+  <<<<<<< HEAD
+  =======
 - [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
 - [Streamline](https://app.streamlineicons.com/streamline-regular/interface-essential)
 - [IconJar](https://geticonjar.com/)
@@ -382,6 +383,7 @@
 - [devhints.io](https://devhints.io/) - A collection os cheatsheets
 - [Scrimba](https://scrimba.com/) - The easy way to learn coding
 - [Beat Saver](https://beatsaver.com/browse/newest)
+- [OpenWebinars](https://openwebinars.net/) - Aprende tecnología desde cero. Cursos de Ethical Hacking, Cloud Computing, Devops, Big Data, Sistemas, Programación, Frameworks y Metodologías
 
 ### Articles
 
@@ -417,12 +419,8 @@
 - [Play For Good](https://play.gl/)
 - [Tao Tajima](http://taotajima.jp/) - [Case Study](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 - [ShowRoom](https://showroom.littleworkshop.fr/)
-<<<<<<< HEAD
 - [Photographer Portfolio Concept](https://dribbble.com/shots/6411111-Photographer-Portfolio-Concept)
-=======
 - [Oropress](https://www.oropress.it/en/)
->>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
-
 ### Awards
 
 - [CSS Design Awards](https://www.cssdesignawards.com/)
