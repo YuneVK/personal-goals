@@ -118,7 +118,7 @@
 ### WebGL
 
 - [WebGL Sketches](http://sketches.vlucendo.com/)
-- [WebGL Academy](http://www.webglacademy.com/)
+- [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic for free
 - [Interactive 3D Graphics](https://eu.udacity.com/course/interactive-3d-graphics--cs291)
 - [WebGL Fluid Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
@@ -144,14 +144,11 @@
 - [CodeMirror](https://codemirror.net/) - A versatile text editor for the browser
 - [Inspire.js](https://inspirejs.org/) - Lean, hackable, extensible slide deck framework
 - [Zdog](https://zzz.dog/) - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
-<<<<<<< HEAD
 - [\<shader-doodle />](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders
 - [Twemoji](https://github.com/twitter/twemoji) - A simple library that provides standard Unicode [emoji](http://en.wikipedia.org/wiki/Emoji) support across all platforms
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-=======
 - [TinyColor](http://bgrins.github.io/TinyColor/) - Fast, small color manipulation and conversion for JavaScript
->>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
-
+- [Mithril](https://mithril.js.org/) - A modern client-side JavaScript framework for building Single Page Applications
 #### D3
 
 - [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
