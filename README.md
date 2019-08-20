@@ -178,6 +178,9 @@
 - [React Static](https://github.com/nozzle/react-static/tree/master/) - ⚛️ 🚀 A progressive static site generator for React
 - [React Select](https://react-select.com/)
 - [React Color](https://casesandberg.github.io/react-color/)
+- [react-testing-library](https://github.com/testing-library/react-testing-library)
+- [Relay](https://relay.dev/) - A JavaScript framework for building data-driven React applications
+- [urql](https://github.com/FormidableLabs/urql) - A highly customizable and versatile GraphQL client for React
 
 #### Tutorials
 
@@ -193,6 +196,7 @@
 - [⚛️ 🚀 Introducing React-Static — A progressive static-site framework for React!](https://medium.com/@tannerlinsley/%EF%B8%8F-introducing-react-static-a-progressive-static-site-framework-for-react-3470d2a51ebc)
 - [Adding Custom Environment Variables](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)
 - [5 Ways to Style React Components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
+- [React's Render Props Pattern - Children as a Function](https://www.robinwieruch.de/react-render-props-pattern/)
 
 #### Other
 
@@ -200,6 +204,7 @@
 - [React Patterns](https://reactpatterns.com/)
 - [Awesome Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
 - [Import all files in folder](https://github.com/rails/webpacker/issues/705)
+- [React DevTools](https://react-devtools-tutorial.now.sh/)
 
 ### Articles
 
@@ -214,6 +219,8 @@
 - [Cast to Number in Javascript using the Unary (+) Operator](https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce)
 - [Using Regular Expressions in Javascript](https://regexone.com/references/javascript)
 - [7 FrontEnd JavaScript Trends and Tools You Should Know for 2020](https://hackernoon.com/7-frontend-javascript-trends-and-tools-you-should-know-for-2020-fb1476e41083)
+- [Clean Code aplicado a Javascript](https://softwarecrafters.io/javascript/clean-code-javascript)
+- [All the New ES2019 Tips and Tricks](https://css-tricks.com/all-the-new-es2019-tips-and-tricks/)
 
 ### Books
 
@@ -224,6 +231,7 @@
 
 - [WarriorJS](https://warriorjs.com/) - Code your way through dungeons, prove your skills, and get hired.
 - [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop)
+- [LearnJS](https://www.learn-js.org/)
 
 ### Others
 
@@ -257,11 +265,11 @@
 - [Web Performance 101](https://3perf.com/talks/web-perf-101/)
 - [Build the future of the web with modern JavaScript (Google I/O ’18)](https://www.youtube.com/watch?v=mIWCLOftfRw)
 - [Web performance made easy (Google I/O '18)](https://www.youtube.com/watch?v=Mv-l3-tJgGk)
-<<<<<<< HEAD
-- [Scraping épico para gente sin APIs](https://t3chfest.uc3m.es/2018/programa/scraping-epico-para-gente-sin-apis/)
-=======
+- Scraping épico para gente sin APIs](https://t3chfest.uc3m.es/2018/programa/scraping-epico-para-gente-sin-apis/)
 - [The Future of Web Animation](https://www.youtube.com/watch?v=hjgni3dXcVE) - Sarah Drasner | JSHeroes 2019
->>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
+### Books
+
+- [Modern Web Development on the JAMstack](https://www.netlify.com/blog/2019/07/31/oreilly-publishes-modern-web-development-on-the-jamstack/)
 
 ### Others
 
@@ -271,6 +279,12 @@
 - [Real World Example Apps](https://github.com/gothinkster/realworld)
 - [Web development, illustrated](https://illustrated.dev/)
 - [Full Stack Open 2019](https://fullstackopen.com/en) - Deep Dive Into Modern Web Development
+- [Selenium](https://www.seleniumhq.org/) - Browser automation
+- [Apollo](https://www.apollographql.com/) - Data graph platform
+- [WPGraphQL](https://www.wpgraphql.com/) - GraphQL API for WordPress
+- [GraphQL College](https://www.graphql.college/)
+- [Practice GraphQL](https://www.graphql.college/practice-graphql/) - Learn GraphQL by querying a schema based on JSON data
+- [JAMstack](https://jamstack.org/)
 
 ## Git / GitHub
 
@@ -286,13 +300,9 @@
 - :heart: [Awesome Design Tools](https://flawlessapp.io/designtools)
 - :heart: [All in One Bookmark Links for Designer](https://www.evernote.design/)
 
-  <<<<<<< HEAD
-  =======
 - [Can't Unsee](https://cantunsee.space/) - A simple game to test your Design skills
 - [Streamline](https://app.streamlineicons.com/streamline-regular/interface-essential)
 - [IconJar](https://geticonjar.com/)
->>>>>>> ae85287fb1f31a4213d9892b734a8380bae1a4f9
-
 ### UX
 
 - [BatUX](http://batux.design/) - An infographic rethinking Batman’s classic outfit in a user-centric way
@@ -381,6 +391,8 @@
 - [Scrimba](https://scrimba.com/) - The easy way to learn coding
 - [Beat Saver](https://beatsaver.com/browse/newest)
 - [OpenWebinars](https://openwebinars.net/) - Aprende tecnología desde cero. Cursos de Ethical Hacking, Cloud Computing, Devops, Big Data, Sistemas, Programación, Frameworks y Metodologías
+- [Real Dev](https://real.dev/) - Come solve fun real world problems encountered in industry and get hired
+- [Track This](https://trackthis.link/) - Let us open 100 tabs of pure madness to fool trackers into thinking you're someone else.
 
 ### Articles
 
@@ -418,6 +430,7 @@
 - [ShowRoom](https://showroom.littleworkshop.fr/)
 - [Photographer Portfolio Concept](https://dribbble.com/shots/6411111-Photographer-Portfolio-Concept)
 - [Oropress](https://www.oropress.it/en/)
+- [Rappi Pay](https://rappipay.mx/)
 ### Awards
 
 - [CSS Design Awards](https://www.cssdesignawards.com/)
@@ -427,6 +440,7 @@
 ## Generative Art
 
 - [ArteGenerativo](https://github.com/karlosgliberal/ArteGenerativo) - Material para un taller de experimentación sobre arte generativo
+- [Dave Whyte](http://beesandbombs.com/) - Motion Graphic Design
 
 
 :waning_crescent_moon::deciduous_tree::rocket::fireworks:
