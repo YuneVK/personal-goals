@@ -108,6 +108,8 @@
 ### Others
 
 - [CSSBattle](https://cssbattle.dev/) - Use your CSS skills to replicate targets with smallest possible code
+- [css-modules](https://github.com/css-modules/css-modules) - CSS file in which all class names and animation names are scoped locally by default
+- [EveryLayout](https://every-layout.dev/) - Relearn CSS layout
 
 ## JavaScript
 
@@ -197,6 +199,7 @@
 - [Adding Custom Environment Variables](https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables)
 - [5 Ways to Style React Components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 - [React's Render Props Pattern - Children as a Function](https://www.robinwieruch.de/react-render-props-pattern/)
+- [I’ve completely rewritten two projects with React Hooks, here is the good and the ugly](https://medium.com/@unbug/ive-completely-rewritten-two-projects-with-react-hooks-here-is-the-good-and-the-ugly-48c28a103f52)
 
 #### Other
 
@@ -226,6 +229,7 @@
 
 - [Mastering D3.js](https://www.amazon.es/Mastering-D3-Js-Pablo-Navarro/dp/178328627X)
 - [D3.js: Cutting-edge Data Visualization](https://learning.oreilly.com/library/view/d3js-cutting-edge-data/9781787281776/) - [GitHub Repo](https://github.com/PacktPublishing/D3js-Cutting-edge-Data-Visualization)
+- [MythBusters JS](https://mythbusters.js.org/#/?id=get-started) - A JavaScript Handbook exploring perfomance & readibility
 
 ### Tutorials
 
@@ -393,6 +397,7 @@
 - [OpenWebinars](https://openwebinars.net/) - Aprende tecnología desde cero. Cursos de Ethical Hacking, Cloud Computing, Devops, Big Data, Sistemas, Programación, Frameworks y Metodologías
 - [Real Dev](https://real.dev/) - Come solve fun real world problems encountered in industry and get hired
 - [Track This](https://trackthis.link/) - Let us open 100 tabs of pure madness to fool trackers into thinking you're someone else.
+- [Sourcetree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
 
 ### Articles
 
