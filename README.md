@@ -72,6 +72,7 @@
 - [Cómo extraer el Critical Path CSS con Puppeteer, Code Coverage y en sólo 20 líneas de código](https://midu.dev/como-extraer-el-critical-css-con-puppeteer/)
 - [Controlling Leftover Grid Items with Pseudo-selectors](https://css-irl.info/controlling-leftover-grid-items/)
 - [How to create better themes with CSS variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74/)
+- [My favorite CSS hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
 
 ### Tutorials
 
@@ -94,6 +95,7 @@
 - [cssdb](https://cssdb.org/) - A comprehensive list of CSS features and their positions in the process of becoming implemented web standards
 - [DropCSS](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
+- [CSSDuoTone](https://cssduotone.com/)
 
 ### Talks
 
@@ -151,6 +153,7 @@
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [TinyColor](http://bgrins.github.io/TinyColor/) - Fast, small color manipulation and conversion for JavaScript
 - [Mithril](https://mithril.js.org/) - A modern client-side JavaScript framework for building Single Page Applications
+- [instant.page](https://instant.page/2) - Preload pages when the user is sure to click
 #### D3
 
 - [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
@@ -253,6 +256,10 @@
 - [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
 - [SVG Tutorial (MDN)](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial)
 
+### Articles
+
+- [Need to scroll to the top of the page?](https://css-tricks.com/need-to-scroll-to-the-top-of-the-page/)
+
 ## Web Development
 
 ### Articles
@@ -263,6 +270,10 @@
 - [How to Look at Your Website the Way Google Does](https://neilpatel.com/blog/the-way-google-scans/)
 - :o: [Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web](https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/)
 - [Browser Rendering Optimizations for Frontend Development](https://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development)
+
+### Tutorials
+
+- [How to CI and CD a Node.JS Application Using GitHub Actions](https://blog.bitsrc.io/https-medium-com-adhasmana-how-to-do-ci-and-cd-of-node-js-application-using-github-actions-860007bebae6)
 
 ### Talks
 
@@ -289,6 +300,9 @@
 - [GraphQL College](https://www.graphql.college/)
 - [Practice GraphQL](https://www.graphql.college/practice-graphql/) - Learn GraphQL by querying a schema based on JSON data
 - [JAMstack](https://jamstack.org/)
+- [X3D: Declarative 3D for the Modern Web](https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html)
+- [schema.org](https://schema.org/docs/schemas.html)
+- [My JSON Server](https://my-json-server.typicode.com/) - Fake Online REST server for teams
 
 ## Git / GitHub
 
@@ -298,6 +312,10 @@
 - [GIT.WTF](https://git.wtf/)
 
 ## Design
+
+### Web Design
+
+- [Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?](https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/)
 
 ### Tools
 
@@ -436,6 +454,7 @@
 - [Photographer Portfolio Concept](https://dribbble.com/shots/6411111-Photographer-Portfolio-Concept)
 - [Oropress](https://www.oropress.it/en/)
 - [Rappi Pay](https://rappipay.mx/)
+- [Ruya](https://ruya.digital/)
 ### Awards
 
 - [CSS Design Awards](https://www.cssdesignawards.com/)
