@@ -73,6 +73,7 @@
 - [Controlling Leftover Grid Items with Pseudo-selectors](https://css-irl.info/controlling-leftover-grid-items/)
 - [How to create better themes with CSS variables](https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74/)
 - [My favorite CSS hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
+- [CSS-in-JS](https://css-tricks.com/video-screencasts/168-css-in-js/)
 
 ### Tutorials
 
@@ -96,6 +97,7 @@
 - [DropCSS](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner
 - [CSSeffectsSnippets](https://emilkowalski.github.io/css-effects-snippets/)
 - [CSSDuoTone](https://cssduotone.com/)
+- [Easing functions](https://easings.net/)
 
 ### Talks
 
@@ -119,6 +121,10 @@
 
 - :heart: [ES6Katas](http://es6katas.org/)
 
+### Testing
+
+- [Javascript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
 ### WebGL
 
 - [WebGL Sketches](http://sketches.vlucendo.com/)
@@ -128,6 +134,10 @@
 - [Web VR Experiments](https://experiments.withgoogle.com/collection/webvr)
 - [A-Frame](https://aframe.io/)
 - [A-Frame School](https://aframe.io/aframe-school/#/)
+- [AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
+- [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+- [Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR](https://medium.com/free-code-camp/build-a-multiplayer-browser-based-vr-game-with-a-frame-pubnub-and-webvr-b7de33ba088)
+- [Introducing WebAR A.K.A the WordPress for Augmented Reality](https://medium.com/@Augmania/introducing-webar-a-k-a-the-wordpress-for-augmented-reality-73300dd8a5be)
 
 #### Three.js
 
@@ -154,9 +164,12 @@
 - [TinyColor](http://bgrins.github.io/TinyColor/) - Fast, small color manipulation and conversion for JavaScript
 - [Mithril](https://mithril.js.org/) - A modern client-side JavaScript framework for building Single Page Applications
 - [instant.page](https://instant.page/2) - Preload pages when the user is sure to click
+- [Chart.xkcd](https://github.com/timqian/chart.xkcd) - A chart library that plots “sketchy”, “cartoony” or “hand-drawn” styled charts.
 #### D3
 
 - [The D3.js Graph Gallery](https://www.d3-graph-gallery.com/)
+- [Intro to D3.js](https://wattenberger.com/blog/d3)
+- [*Fullstack D3* book](https://www.newline.co/fullstack-d3)
 
 ### Frameworks
 
@@ -248,13 +261,20 @@
 - [Learn JS Data](http://learnjsdata.com/) - Data cleaning, manipulation, and wrangling in JavaScript
 - [JavaScript 30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge
 
+## SVG
+
+- [SVG Essentials & Animation Course Materials](https://github.com/sdras/svg-workshop)
+- [SVG Tutorial (MDN)](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial)
+- [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
+
 ## Front-end
 
 - :newspaper: [De-Coding the Front-end Development Interview Process](https://codeburst.io/de-coding-the-front-end-development-interview-process-9601bc4c71e5)
 - :heart: [CodeMyUI](https://codemyui.com/)
 - :newspaper: [Tools and modern workflow for front-end developers](https://blog.logrocket.com/tools-and-modern-workflow-for-front-end-developers-505c7227e917)
-- [Pocket Guide to Writing SVG](http://svgpocketguide.com/)
-- [SVG Tutorial (MDN)](https://developer.mozilla.org/es/docs/Web/SVG/Tutorial)
+- [CanIEmail](https://www.caniemail.com/)
+- [Frontend case studies](https://github.com/andrew--r/frontend-case-studies) - A curated list of technical talks and articles about real world enterprise frontend development
+- [Hasura](https://learn.hasura.io/) - Real world GraphQL tutorials for frontend developers with deadlines!
 
 ### Articles
 
@@ -303,6 +323,10 @@
 - [X3D: Declarative 3D for the Modern Web](https://blog.scottlogic.com/2019/08/27/declarative-3d-for-the-modern-web.html)
 - [schema.org](https://schema.org/docs/schemas.html)
 - [My JSON Server](https://my-json-server.typicode.com/) - Fake Online REST server for teams
+
+## Programming
+
+- [Kodiri](https://www.kodiri.com/platform) - Prove your Programming Talent!
 
 ## Git / GitHub
 
@@ -362,6 +386,7 @@
 ## Tools
 
 - [Sheetgo](https://www.sheetgo.com/) - Spreadsheet data management 
+- [Screely](https://www.screely.com/) - Instantly turn your screenshot into a beautiful mockup
 
 ### Documentation
 
@@ -416,6 +441,8 @@
 - [Real Dev](https://real.dev/) - Come solve fun real world problems encountered in industry and get hired
 - [Track This](https://trackthis.link/) - Let us open 100 tabs of pure madness to fool trackers into thinking you're someone else.
 - [Sourcetree](https://www.sourcetreeapp.com/) - Simplicity and power in a beautiful Git GUI
+- [Tech Conferences - Spain](https://npatarino.github.io/tech-conferences-spain/) - A community-curated list of conferences around Spain
+- [NPM Drinking Game](https://npmdrinkinggame.party/) - Write an english word in the input and if it exists in npm you must drink
 
 ### Articles
 
